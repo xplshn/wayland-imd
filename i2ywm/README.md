@@ -6,6 +6,9 @@
 - Basic operations menu
 - Basic file operations and xfdesktop-like behavior
 - Open & Open with... in the menu
+- Make icons navigable with keyboard input
+- Option to show icons on all workspaces or only on focused workspaces
+- Option to show icons only on empty workspaces (no windows open)
 
 Currently implemented:
 - Support for .desktop files
